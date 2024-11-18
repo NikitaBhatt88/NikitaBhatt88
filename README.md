@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikitaBhatt88
 - 👀 I’m interested in front end and back end both the development.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning React, Node.Js, Java and Python.
 - 💞️ I’m looking to collaborate on......
 - 📫 How to reach me ...You can contact me via my LinkedIn - https://www.linkedin.com/in/nikita-bhatt-0747701b9/.
 
